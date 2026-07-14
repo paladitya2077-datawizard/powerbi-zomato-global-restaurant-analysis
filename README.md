@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 * **Goal:** To combine multiple country data sheets into one interactive Power BI report to help Zomato track total restaurants, customer ratings, and dining costs worldwide.
-* **Dataset:** Multiple Excel files containing a central Fact Table, Country Codes, and regional data split by 6 continents (Asia, Africa, Europe, Oceania, NAM & SAM).
+* **Dataset:** 8 connected Excel files, including a central Fact Table, Country Codes, and regional data split by 6 continents (Asia, Africa, Europe, Oceania, NAM & SAM).
 
 ## 🛠️ Tools Used
 * Power BI Desktop & Power Query
